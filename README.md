@@ -1,1 +1,6 @@
-# gemini-extension.json
+{
+  "name": "ponytail",
+  "version": "4.10.3",
+  "description": "Lazy senior dev mode. Forces the simplest, shortest solution that actually works: YAGNI, stdlib first, no unrequested abstractions.",
+  "contextFileName": "AGENTS.md"
+}
